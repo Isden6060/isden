@@ -1,0 +1,56 @@
+header{
+	padding: 15px
+}
+table{
+	padding: 10px
+}
+
+h1{
+	font-family: "Comfortaa", sans-serif;
+	font-size: 60px; 
+	text-shadow: 1px 1px 8px black;
+	font-optical-sizing: auto;
+  	font-weight: 700;
+  	font-style: normal;
+	color: #fff200
+}
+h2{
+	font-family: "Comfortaa", sans-serif;
+	font-optical-sizing: auto;
+  	font-weight: 700;
+  	font-style: normal;
+	color: black
+}
+h3{
+	font-family: "Comfortaa", sans-serif;
+	font-optical-sizing: auto;
+  	font-weight: 700;
+  	font-style: normal;
+	color: black
+}
+p{
+	font-family: "Comfortaa", sans-serif;
+	font-optical-sizing: auto;
+  	font-weight: 450;
+  	font-style: normal;
+}
+th{
+	font-family: "Comfortaa", sans-serif;
+	font-optical-sizing: auto;
+  	font-weight: 450;
+  	font-style: normal;
+	background-color: #e8dbc5;
+}
+td{
+	font-family: "Comfortaa", sans-serif;
+	font-optical-sizing: auto;
+  	font-weight: 450;
+  	font-style: normal;
+	background-color: #e8dbc5;
+}
+header{
+	background-color: #9a60a8
+}
+body{
+	background-color: #ad9978
+} 
